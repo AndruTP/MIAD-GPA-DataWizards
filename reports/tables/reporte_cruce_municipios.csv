@@ -1,0 +1,155 @@
+departamento,municipio,divipola,tipo_cruce,similitud,vehiculos
+Norte de Santander,CUCUTA,54001,alias,100.0,154
+Bolivar,CARTAGENA,13001,alias,100.0,92
+Cundinamarca,UBATE,25843,alias,100.0,2
+"Archipielago de San Andres, Providencia",SAN ANDRES,88001,difuso,100.0,10
+Bogota D.C.,BOGOTA,11001,exacto,100.0,35952
+Antioquia,MEDELLIN,05001,exacto,100.0,9045
+Antioquia,ENVIGADO,05266,exacto,100.0,4831
+Valle del Cauca,CALI,76001,exacto,100.0,4231
+Cundinamarca,FUNZA,25286,exacto,100.0,1411
+Antioquia,SABANETA,05631,exacto,100.0,1033
+Cundinamarca,CHIA,25175,exacto,100.0,958
+Risaralda,PEREIRA,66001,exacto,100.0,768
+Caldas,MANIZALES,17001,exacto,100.0,697
+Atlantico,BARRANQUILLA,08001,exacto,100.0,653
+Valle del Cauca,PALMIRA,76520,exacto,100.0,639
+Santander,GIRON,68307,exacto,100.0,582
+Cundinamarca,MOSQUERA,25473,exacto,100.0,521
+Antioquia,RIONEGRO,05615,exacto,100.0,468
+Meta,VILLAVICENCIO,50001,exacto,100.0,463
+Santander,BUCARAMANGA,68001,exacto,100.0,418
+Cundinamarca,MADRID,25430,exacto,100.0,383
+Tolima,IBAGUE,73001,exacto,100.0,381
+Cundinamarca,LA CALERA,25377,exacto,100.0,350
+Quindio,ARMENIA,63001,exacto,100.0,316
+Norte de Santander,VILLA DEL ROSARIO,54874,exacto,100.0,291
+Quindio,CIRCASIA,63190,exacto,100.0,162
+Santander,BARRANCABERMEJA,68081,exacto,100.0,158
+Cundinamarca,ZIPAQUIRA,25899,exacto,100.0,155
+Antioquia,BELLO,05088,exacto,100.0,148
+Cundinamarca,TENJO,25799,exacto,100.0,128
+Atlantico,SABANAGRANDE,08634,exacto,100.0,102
+Casanare,YOPAL,85001,exacto,100.0,78
+Huila,NEIVA,41001,exacto,100.0,76
+Antioquia,LA CEJA,05376,exacto,100.0,62
+Bolivar,CLEMENCIA,13222,exacto,100.0,57
+Boyaca,TUNJA,15001,exacto,100.0,56
+Cundinamarca,SOACHA,25754,exacto,100.0,53
+Cordoba,MONTERIA,23001,exacto,100.0,52
+Antioquia,LA ESTRELLA,05380,exacto,100.0,51
+Bolivar,TURBACO,13836,exacto,100.0,44
+Cundinamarca,COTA,25214,exacto,100.0,43
+Meta,RESTREPO,50606,exacto,100.0,43
+Valle del Cauca,GUACARI,76318,exacto,100.0,40
+Antioquia,ITAGUI,05360,exacto,100.0,39
+Atlantico,PUERTO COLOMBIA,08573,exacto,100.0,38
+Cundinamarca,SESQUILE,25736,exacto,100.0,32
+Cauca,POPAYAN,19001,exacto,100.0,30
+Narino,PASTO,52001,exacto,100.0,30
+Cundinamarca,GIRARDOT,25307,exacto,100.0,26
+Santander,PIEDECUESTA,68547,exacto,100.0,26
+Valle del Cauca,TULUA,76834,exacto,100.0,24
+Meta,PUERTO LOPEZ,50573,exacto,100.0,23
+Magdalena,SANTA MARTA,47001,exacto,100.0,22
+Santander,FLORIDABLANCA,68276,exacto,100.0,22
+Cundinamarca,CHOCONTA,25183,exacto,100.0,22
+Cesar,SAN DIEGO,20750,exacto,100.0,22
+Cundinamarca,CAJICA,25126,exacto,100.0,18
+Boyaca,COMBITA,15204,exacto,100.0,17
+Meta,ACACIAS,50006,exacto,100.0,17
+Cundinamarca,FUSAGASUGA,25290,exacto,100.0,17
+Antioquia,MARINILLA,05440,exacto,100.0,16
+Boyaca,VILLA DE LEYVA,15407,exacto,100.0,15
+Valle del Cauca,FLORIDA,76275,exacto,100.0,14
+Bolivar,ARJONA,13052,exacto,100.0,14
+Caqueta,BELEN DE LOS ANDAQUIES,18094,exacto,100.0,14
+Valle del Cauca,CARTAGO,76147,exacto,100.0,14
+Cesar,LA PAZ,20621,exacto,100.0,13
+Norte de Santander,LOS PATIOS,54405,exacto,100.0,12
+Valle del Cauca,GUADALAJARA DE BUGA,76111,exacto,100.0,12
+Boyaca,DUITAMA,15238,exacto,100.0,11
+Antioquia,EL CARMEN DE VIBORAL,05148,exacto,100.0,10
+Cundinamarca,CAQUEZA,25151,exacto,100.0,9
+Antioquia,EL SANTUARIO,05697,exacto,100.0,9
+Quindio,CALARCA,63130,exacto,100.0,8
+Boyaca,SOGAMOSO,15759,exacto,100.0,8
+Cundinamarca,SOPO,25758,exacto,100.0,8
+Antioquia,GUARNE,05318,exacto,100.0,8
+Cundinamarca,RICAURTE,25612,exacto,100.0,7
+Risaralda,DOSQUEBRADAS,66170,exacto,100.0,7
+Risaralda,SANTA ROSA DE CABAL,66682,exacto,100.0,7
+Huila,RIVERA,41615,exacto,100.0,7
+Santander,SAN GIL,68679,exacto,100.0,6
+Boyaca,SANTA ROSA DE VITERBO,15693,exacto,100.0,6
+Boyaca,PAIPA,15516,exacto,100.0,6
+Tolima,MELGAR,73449,exacto,100.0,6
+Narino,NARINO,52480,exacto,100.0,6
+Valle del Cauca,CAICEDONIA,76122,exacto,100.0,6
+Tolima,MARIQUITA,73443,exacto,100.0,5
+Boyaca,NOBSA,15491,exacto,100.0,5
+Antioquia,GIRARDOTA,05308,exacto,100.0,5
+Norte de Santander,PAMPLONA,54518,exacto,100.0,5
+Huila,PALERMO,41524,exacto,100.0,5
+Meta,GUAMAL,50318,exacto,100.0,5
+Norte de Santander,OCAÑA,54498,exacto,100.0,5
+Valle del Cauca,ANDALUCIA,76036,exacto,100.0,5
+Cundinamarca,SILVANIA,25743,exacto,100.0,4
+Cesar,VALLEDUPAR,20001,exacto,100.0,4
+Santander,LEBRIJA,68406,exacto,100.0,4
+Antioquia,COPACABANA,05212,exacto,100.0,4
+Santander,BARICHARA,68079,exacto,100.0,4
+Sucre,SINCELEJO,70001,exacto,100.0,4
+Cauca,PUERTO TEJADA,19573,exacto,100.0,3
+Valle del Cauca,YUMBO,76892,exacto,100.0,3
+Valle del Cauca,GINEBRA,76306,exacto,100.0,3
+Boyaca,MONIQUIRA,15469,exacto,100.0,3
+Valle del Cauca,EL CERRITO,76248,exacto,100.0,3
+Antioquia,SAN JERONIMO,05656,exacto,100.0,2
+Atlantico,BARANOA,08078,exacto,100.0,2
+Cundinamarca,EL ROSAL,25260,exacto,100.0,2
+Arauca,ARAUCA,81001,exacto,100.0,2
+Antioquia,SANTAFE DE ANTIOQUIA,05042,exacto,100.0,2
+Cundinamarca,FACATATIVA,25269,exacto,100.0,2
+Valle del Cauca,JAMUNDI,76364,exacto,100.0,2
+Huila,GARZON,41298,exacto,100.0,2
+Valle del Cauca,PRADERA,76563,exacto,100.0,2
+Valle del Cauca,CANDELARIA,76130,exacto,100.0,2
+Cauca,MIRANDA,19455,exacto,100.0,2
+Magdalena,ARACATACA,47053,exacto,100.0,2
+Valle del Cauca,SEVILLA,76736,exacto,100.0,2
+Tolima,GUAMO,73319,exacto,100.0,1
+Antioquia,ANDES,05034,exacto,100.0,1
+Boyaca,PUERTO BOYACA,15572,exacto,100.0,1
+Putumayo,ORITO,86320,exacto,100.0,1
+Cundinamarca,LA MESA,25386,exacto,100.0,1
+La Guajira,HATONUEVO,44378,exacto,100.0,1
+Tolima,ALVARADO,73026,exacto,100.0,1
+Antioquia,BARBOSA,05079,exacto,100.0,1
+Boyaca,GUATEQUE,15322,exacto,100.0,1
+Antioquia,EL BAGRE,05250,exacto,100.0,1
+Caldas,CHINCHINA,17174,exacto,100.0,1
+Huila,PITALITO,41551,exacto,100.0,1
+Valle del Cauca,ROLDANILLO,76622,exacto,100.0,1
+Bolivar,SAN JUAN NEPOMUCENO,13657,exacto,100.0,1
+Bolivar,MAGANGUE,13430,exacto,100.0,1
+Caldas,AGUADAS,17013,exacto,100.0,1
+Cordoba,LORICA,23417,exacto,100.0,1
+Quindio,QUIMBAYA,63594,exacto,100.0,1
+Antioquia,CALDAS,05129,exacto,100.0,1
+Antioquia,YARUMAL,05887,exacto,100.0,1
+Atlantico,GALAPA,08296,exacto,100.0,1
+Cundinamarca,VILLETA,25875,exacto,100.0,1
+Santander,BARBOSA,68077,exacto,100.0,1
+Santander,SAN VICENTE DE CHUCURI,68689,exacto,100.0,1
+Tolima,ESPINAL,73268,exacto,100.0,1
+Antioquia,AMALFI,05031,exacto,100.0,1
+Caqueta,FLORENCIA,18001,exacto,100.0,1
+Huila,AIPE,41016,exacto,100.0,1
+Atlantico,MALAMBO,08433,exacto,100.0,1
+Caldas,ANSERMA,17042,exacto,100.0,1
+Cundinamarca,PACHO,25513,exacto,100.0,1
+La Guajira,RIOHACHA,44001,exacto,100.0,1
+Norte de Santander,EL ZULIA,54261,exacto,100.0,1
+Sucre,COROZAL,70215,exacto,100.0,1
+Tolima,HONDA,73349,exacto,100.0,1

@@ -1,0 +1,9 @@
+﻿etapa,decision,justificacion
+EDA base,EDA_ACC seleccionada por cinco variables adicionales y 0 diferencias en 12 variables originales,Validación exacta por DIVIPOLA; mantener ambos originales
+DANE,Conservar solo DIVIPOLA de cinco dígitos; excluir notas finales,Evitar que metadatos se contabilicen como municipios
+DANE,Conservar montos en miles de millones COP corrientes; 2024 provisional,"Mantener unidad, fecha y carácter provisional"
+Conciliación,Cruce izquierda con validación uno-a-uno,No perder ni multiplicar registros de la base de 1.123 municipios
+Faltantes,"No imputar automáticamente VA, crecimiento ni parque liviano",Analizar ausencia y cobertura antes de cualquier imputación
+Electromovilidad,"No interpretar híbridos no clasificados como PHEV, ni motos/ciclomotores como demanda DC de pasajeros",Evitar sobreestimación de demanda de carga rápida
+CárgaME,Conservar inventario preliminar sin declarar estaciones DC públicas operativas,"Requiere validación de conectores, potencia, acceso y ubicación"
+Contexto económico,"VA nominal 2024p usado como contexto, no como demanda observada",Años de referencia distintos; correlación no implica causalidad

@@ -1,0 +1,5 @@
+fuente,accion,n
+RUNT,Duplicados exactos eliminados,0
+RUNT,"Cantidades negativas -> NaN (no se imputan, se reportan)",0
+RUNT,"Filas con cantidad > 20,000 (imposible por fila) -> NaN para revisión manual",0
+RUNT,Filas con DIVIPOLA fuera del catálogo (excluidas),0

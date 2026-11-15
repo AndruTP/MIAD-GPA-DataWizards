@@ -1,0 +1,17 @@
+fuente,dimension,campo_o_regla,medida,valor
+RUNT,Completitud,divipola,0.0% vacíos,0
+RUNT,Completitud,anio,0.0% vacíos,0
+RUNT,Completitud,cantidad,0.0% vacíos,0
+RUNT,Completitud,(filas),total,572
+RUNT,Consistencia,(duplicados exactos),filas repetidas,0
+RUNT,Consistencia,cantidad negativa,incumplen,0
+RUNT,Consistencia,cantidad > p99.9 (candidato a extremo),incumplen,1
+RUNT,Consistencia,divipola no tiene 5 dígitos,incumplen,0
+RUNT,Consistencia,divipola fuera de catálogo DANE,incumplen,0
+RUNT,Consistencia,anio fuera de 2000-2030 o no numérico,incumplen,0
+DANE,Completitud,divipola,0.0% vacíos,0
+DANE,Completitud,departamento,0.0% vacíos,0
+DANE,Completitud,municipio,0.0% vacíos,0
+DANE,Completitud,poblacion,0.0% vacíos,0
+DANE,Completitud,(filas),total,1123
+DANE,Consistencia,(duplicados exactos),filas repetidas,0

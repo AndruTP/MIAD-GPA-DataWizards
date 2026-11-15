@@ -1,0 +1,15 @@
+﻿variable,filas,nulos,pct_nulos,valores_distintos_no_nulos,revisar_supera_10pct
+crec_anual,1123,1044,92.97,47,True
+parque_liviano,1123,834,74.27,282,True
+bev_pct_parque,1123,834,74.27,154,True
+n_combustible,1123,9,0.8,12,False
+km_via_principal,1123,9,0.8,803,False
+dens_via_principal,1123,9,0.8,803,False
+n_comercio,1123,9,0.8,42,False
+n_parqueaderos,1123,9,0.8,28,False
+va_total_2024_mm_cop,1123,1,0.09,1122,False
+bev_por_100k,1123,1,0.09,155,False
+pct_terciarias_va_2024,1123,1,0.09,1122,False
+matr_anio,1123,0,0.0,48,False
+poblacion,1123,0,0.0,1108,False
+bev_acum,1123,0,0.0,67,False

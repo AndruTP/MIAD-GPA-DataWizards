@@ -1,0 +1,1126 @@
+osm_id,municipio_osm,departamento_osm,divipola,tipo_cruce,similitud
+1309991,San Pedro de Cartago,Nariño,52694,exacto,100.0
+1309987,Arboleda (Berruecos),Nariño,52051,exacto,100.0
+1309986,Belén,Nariño,52083,exacto,100.0
+1309989,Colón (Génova),Nariño,52203,exacto,100.0
+1309984,San Bernardo,Nariño,52685,exacto,100.0
+1311673,Valle del Guamuez (La Hormiga),Putumayo,86865,exacto,100.0
+1306576,Tununguá,Boyacá,15832,exacto,100.0
+1315087,Cimitarra,Santander,68190,exacto,100.0
+1314688,Albania,La Guajira,44035,exacto,100.0
+1324926,Chalán,Sucre,70230,exacto,100.0
+1324950,Sincé,Sucre,70742,subconjunto,100.0
+1324920,Planeta Rica,Córdoba,23555,exacto,100.0
+1324919,Galeras,Sucre,70235,exacto,100.0
+1324936,Colosó,Sucre,70204,exacto,100.0
+1324944,El Roble,Sucre,70233,exacto,100.0
+1324954,San Marcos,Sucre,70708,exacto,100.0
+1350650,La Unión,Sucre,70400,exacto,100.0
+1328501,San Jacinto del Cauca,Bolívar,13655,exacto,100.0
+1324953,Guaranda,Sucre,70265,exacto,100.0
+1335173,Altos del Rosario,Bolívar,13030,exacto,100.0
+1335166,Palmar de Varela,Atlántico,08520,exacto,100.0
+1326226,El Peñón,Bolívar,13268,exacto,100.0
+1326225,Cicuco,Bolívar,13188,exacto,100.0
+1324941,Buenavista,Sucre,70110,exacto,100.0
+1335176,Hatillo de Loba,Bolívar,13300,exacto,100.0
+1341506,Arroyohondo,Bolívar,13062,exacto,100.0
+1341518,Baranoa,Atlántico,08078,exacto,100.0
+1342483,Usiacurí,Atlántico,08849,exacto,100.0
+1335175,Santo Tomás,Atlántico,08685,exacto,100.0
+1341550,Polonuevo,Atlántico,08558,exacto,100.0
+1341558,Sabanagrande,Atlántico,08634,exacto,100.0
+1342117,Cartagena del Chairá,Caquetá,18150,exacto,100.0
+1342115,Rivera,Huila,41615,exacto,100.0
+1342106,Puerto Rico,Caquetá,18592,exacto,100.0
+1342114,Puerto Caicedo,Putumayo,86569,exacto,100.0
+1456104,Campoalegre,Huila,41132,exacto,100.0
+1342122,Yaguará,Huila,41885,exacto,100.0
+1342111,La Montañita,Caquetá,18410,exacto,100.0
+1342116,Hobo,Huila,41349,exacto,100.0
+1342119,El Doncello,Caquetá,18247,exacto,100.0
+1342087,Algeciras,Huila,41020,exacto,100.0
+1341514,Candelaria,Atlántico,08141,exacto,100.0
+1351285,Santa Lucía,Atlántico,08675,exacto,100.0
+1326254,San Cristóbal,Bolívar,13620,exacto,100.0
+1342458,Manatí,Atlántico,08436,exacto,100.0
+1342479,Luruaco,Atlántico,08421,exacto,100.0
+1341537,Sabanalarga,Atlántico,08638,exacto,100.0
+1343400,Cácota,Norte de Santander,54125,exacto,100.0
+1324924,San Benito Abad,Sucre,70678,exacto,100.0
+1343464,Majagual,Sucre,70429,exacto,100.0
+1343468,Morroa,Sucre,70473,exacto,100.0
+1343465,Barranco de Loba,Bolívar,13074,exacto,100.0
+1343721,San Miguel,Santander,68686,exacto,100.0
+1343724,San Joaquín,Santander,68682,exacto,100.0
+1343726,Coromoro,Santander,68217,exacto,100.0
+1343739,Lebrija,Santander,68406,exacto,100.0
+1343697,Carcasí,Santander,68152,exacto,100.0
+1344035,Chiscas,Boyacá,15180,exacto,100.0
+1343711,Capitanejo,Santander,68147,exacto,100.0
+1344182,Covarachía,Boyacá,15218,exacto,100.0
+1343716,Macaravita,Santander,68425,exacto,100.0
+1343723,Onzaga,Santander,68502,exacto,100.0
+1344478,Soatá,Boyacá,15753,exacto,100.0
+1344489,Tipacoque,Boyacá,15810,exacto,100.0
+1344585,Tenza,Boyacá,15798,exacto,100.0
+1306572,Togüí,Boyacá,15816,exacto,100.0
+1344609,Chitaraque,Boyacá,15185,exacto,100.0
+1344616,Gachantivá,Boyacá,15293,exacto,100.0
+1306569,Santa Sofía,Boyacá,15696,exacto,100.0
+1306571,Briceño,Boyacá,15106,exacto,100.0
+1344654,Saboyá,Boyacá,15632,exacto,100.0
+1344984,La Victoria,Boyacá,15401,exacto,100.0
+1345187,San Pablo de Borbur,Boyacá,15681,exacto,100.0
+1306567,Pauna,Boyacá,15531,exacto,100.0
+1344500,Toca,Boyacá,15814,exacto,100.0
+1345190,Siachoque,Boyacá,15740,exacto,100.0
+1345219,Viracachá,Boyacá,15879,exacto,100.0
+1324942,Sahagún,Córdoba,23660,exacto,100.0
+1350661,Cereté,Córdoba,23162,exacto,100.0
+1343437,Ciénaga de Oro,Córdoba,23189,exacto,100.0
+1335186,Ponedera,Atlántico,08560,exacto,100.0
+1342330,Campo de la Cruz,Atlántico,08137,exacto,100.0
+1351874,Salamina,Magdalena,47675,exacto,100.0
+1351879,Pesca,Boyacá,15542,exacto,100.0
+1351878,Tota,Boyacá,15822,exacto,100.0
+1315386,Iza,Boyacá,15362,exacto,100.0
+1351880,Cuítiva,Boyacá,15226,exacto,100.0
+11897328,Firavitoba,Boyacá,15272,exacto,100.0
+1352118,Cerinza,Boyacá,15162,exacto,100.0
+11897329,Floresta,Boyacá,15276,exacto,100.0
+1352331,Monguí,Boyacá,15466,exacto,100.0
+1308648,Belén,Boyacá,15087,exacto,100.0
+1352374,Tutazá,Boyacá,15839,exacto,100.0
+1352536,Santana,Boyacá,15686,exacto,100.0
+1315450,Suaita,Santander,68770,exacto,100.0
+1353027,Agua de Dios,Cundinamarca,25001,exacto,100.0
+1353243,Somondoco,Boyacá,15761,exacto,100.0
+1353242,Almeida,Boyacá,15022,exacto,100.0
+1353248,Apulo,Cundinamarca,25599,exacto,100.0
+1315418,San Eduardo,Boyacá,15660,exacto,100.0
+1355485,Cumbitara,Nariño,52233,exacto,100.0
+1320725,Policarpa,Nariño,52540,exacto,100.0
+1355727,Guayabal de Síquima,Cundinamarca,25328,exacto,100.0
+1353401,Bituima,Cundinamarca,25095,exacto,100.0
+1315447,Florián,Santander,68271,exacto,100.0
+1306565,Moniquirá,Boyacá,15469,exacto,100.0
+1306568,San José de Pare,Boyacá,15664,exacto,100.0
+1306573,Arcabuco,Boyacá,15051,exacto,100.0
+1343244,Arboledas,Norte de Santander,54051,exacto,100.0
+1343023,Guática,Risaralda,66318,exacto,100.0
+1315393,Aquitania,Boyacá,15047,exacto,100.0
+1342105,La Argentina,Huila,41378,exacto,100.0
+1342131,Belén de los Andaquíes,Caquetá,18094,exacto,100.0
+1309440,Palestina,Huila,41530,exacto,100.0
+1342099,El Paujil,Caquetá,18256,exacto,100.0
+1309439,Acevedo,Huila,41006,exacto,100.0
+1342112,Íquira,Huila,41357,exacto,100.0
+1460149,Teruel,Huila,41801,exacto,100.0
+1342925,Prado,Tolima,73563,exacto,100.0
+1343449,Montería,Córdoba,23001,exacto,100.0
+1324932,Valencia,Córdoba,23855,exacto,100.0
+1324937,Clemencia,Bolívar,13222,exacto,100.0
+1343450,Sucre,Sucre,70771,exacto,100.0
+1306575,Tinjacá,Boyacá,15808,exacto,100.0
+1315404,La Capilla,Boyacá,15380,exacto,100.0
+1342321,Suan,Atlántico,08770,exacto,100.0
+1309992,La Cruz,Nariño,52378,exacto,100.0
+1309983,Albán (San José),Nariño,52019,exacto,100.0
+1353392,Pulí,Cundinamarca,25580,exacto,100.0
+1353404,Vianí,Cundinamarca,25867,exacto,100.0
+11909464,Quipile,Cundinamarca,25596,exacto,100.0
+1345218,Viotá,Cundinamarca,25878,exacto,100.0
+1412973,Anapoima,Cundinamarca,25035,exacto,100.0
+1353254,Jerusalén,Cundinamarca,25368,exacto,100.0
+1342132,Pitalito,Huila,41551,exacto,100.0
+1342104,Elías,Huila,41244,exacto,100.0
+1309444,Timaná,Huila,41807,exacto,100.0
+1342110,Saladoblanco,Huila,41660,exacto,100.0
+1309449,Oporapa,Huila,41503,exacto,100.0
+1342094,Gigante,Huila,41306,exacto,100.0
+1342103,Tarqui,Huila,41791,exacto,100.0
+1309443,Altamira,Huila,41026,exacto,100.0
+1324939,Toluviejo,Sucre,70823,difuso,94.7
+1324930,San Carlos,Córdoba,23678,exacto,100.0
+1343462,Pueblo Nuevo,Córdoba,23570,exacto,100.0
+1419932,Tibacuy,Cundinamarca,25805,exacto,100.0
+1326220,Arenal,Bolívar,13042,exacto,100.0
+1343441,Morales,Bolívar,13473,exacto,100.0
+1328503,San Martín de Loba,Bolívar,13667,exacto,100.0
+1308646,Betéitiva,Boyacá,15092,exacto,100.0
+1315435,Paya,Boyacá,15533,exacto,100.0
+1315434,Socha,Boyacá,15757,exacto,100.0
+1315437,Boavita,Boyacá,15097,exacto,100.0
+1315385,Busbanzá,Boyacá,15114,exacto,100.0
+1315433,Güicán,Boyacá,15332,subconjunto,100.0
+1315425,Sativanorte,Boyacá,15720,exacto,100.0
+1423449,Sativasur,Boyacá,15723,exacto,100.0
+1315429,Susacón,Boyacá,15774,exacto,100.0
+1315389,Labranzagrande,Boyacá,15377,exacto,100.0
+1308639,Paz de Río,Boyacá,15537,exacto,100.0
+1315427,Pisba,Boyacá,15550,exacto,100.0
+1315428,La Uvita,Boyacá,15403,exacto,100.0
+1315431,El Cocuy,Boyacá,15244,exacto,100.0
+1315436,Jericó,Boyacá,15368,exacto,100.0
+4047171,Carmen de Apicala,Tolima,73148,exacto,100.0
+1309466,Cunday,Tolima,73226,exacto,100.0
+1421816,Quetame,Cundinamarca,25594,exacto,100.0
+1345093,Fosca,Cundinamarca,25281,exacto,100.0
+1422328,El Peñón,Cundinamarca,25258,exacto,100.0
+1422324,Otanche,Boyacá,15507,exacto,100.0
+1422331,Maripí,Boyacá,15442,exacto,100.0
+1306574,Caldas,Boyacá,15131,exacto,100.0
+1345019,Coper,Boyacá,15212,exacto,100.0
+1315464,Albania,Santander,68020,exacto,100.0
+1315449,San Benito,Santander,68673,exacto,100.0
+1315423,Puente Nacional,Santander,68572,exacto,100.0
+1314966,Enciso,Santander,68266,exacto,100.0
+1314973,San José de Miranda,Santander,68684,exacto,100.0
+1315078,Valle de San José,Santander,68855,exacto,100.0
+1315463,Guadalupe,Santander,68320,exacto,100.0
+1314971,Ocamonte,Santander,68498,exacto,100.0
+1423457,El Piñón,Magdalena,47258,exacto,100.0
+1350670,Cerro de San Antonio,Magdalena,47161,exacto,100.0
+1350672,Concordia,Magdalena,47205,exacto,100.0
+1423463,Pedraza,Magdalena,47541,exacto,100.0
+1351279,El Guamo,Bolívar,13248,exacto,100.0
+1423494,Zapayán (Punta de Piedras),Magdalena,47960,exacto,100.0
+1351868,Gamarra,Cesar,20295,exacto,100.0
+1423467,Río de Oro,Cesar,20614,exacto,100.0
+1326253,Regidor,Bolívar,13580,exacto,100.0
+1423447,La Gloria,Cesar,20383,exacto,100.0
+1423517,Pelaya,Cesar,20550,exacto,100.0
+1351873,Pailitas,Cesar,20517,exacto,100.0
+1423475,Tamalameque,Cesar,20787,exacto,100.0
+1341297,Margarita,Bolívar,13440,exacto,100.0
+1423513,El Banco,Magdalena,47245,exacto,100.0
+1423484,Astrea,Cesar,20032,exacto,100.0
+1423514,Vetas,Santander,68867,exacto,100.0
+1423456,Ariguaní (El Difìcil),Magdalena,47058,exacto,100.0
+1423516,Barichara,Santander,68079,exacto,100.0
+1423495,Cabrera,Santander,68121,exacto,100.0
+1423470,Cepitá,Santander,68160,exacto,100.0
+1423481,Charta,Santander,68169,exacto,100.0
+1423465,Concepción,Santander,68207,exacto,100.0
+1314970,Málaga,Santander,68432,exacto,100.0
+1315459,Oiba,Santander,68500,exacto,100.0
+1423518,Confines,Santander,68209,exacto,100.0
+1423464,Cucutilla,Norte de Santander,54223,exacto,100.0
+1423496,Mogotes,Santander,68464,exacto,100.0
+1315081,San Gil,Santander,68679,exacto,100.0
+1423446,Curití,Santander,68229,exacto,100.0
+1314967,Molagavita,Santander,68468,exacto,100.0
+1423508,Pinchote,Santander,68549,exacto,100.0
+1314974,Páramo,Santander,68533,exacto,100.0
+1423500,El Socorro,Santander,68755,subconjunto,100.0
+1423485,San Andrés,Santander,68669,exacto,100.0
+1423473,Guaca,Santander,68318,exacto,100.0
+1343390,Silos,Norte de Santander,54743,exacto,100.0
+1423453,Tona,Santander,68820,exacto,100.0
+1315424,San Mateo,Boyacá,15673,exacto,100.0
+1423466,Panqueba,Boyacá,15522,exacto,100.0
+1423512,Guacamayas,Boyacá,15317,exacto,100.0
+1344193,El Espino,Boyacá,15248,exacto,100.0
+1423452,Guamal,Magdalena,47318,exacto,100.0
+1326261,San Fernando,Bolívar,13650,exacto,100.0
+1326239,Santa Cruz de Mompox,Bolívar,13468,alias,100.0
+1423448,San Sebastián de Buenavista,Magdalena,47692,exacto,100.0
+1423471,Guapotá,Santander,68322,exacto,100.0
+1315458,Palmas del Socorro,Santander,68524,exacto,100.0
+1423497,Labateca,Norte de Santander,54377,exacto,100.0
+1423472,Nueva Granada (Granada),Magdalena,47460,exacto,100.0
+1423515,Palmar,Santander,68522,exacto,100.0
+1423462,Pijiño del Carmen,Magdalena,47545,exacto,100.0
+1423487,San Zenón,Magdalena,47703,exacto,100.0
+1423519,Santa Bárbara de Pinto,Magdalena,47720,exacto,100.0
+1423455,Santiago,Norte de Santander,54680,exacto,100.0
+1343650,Duranía,Norte de Santander,54239,exacto,100.0
+1438579,Acacías,Meta,50006,exacto,100.0
+1438573,El Castillo,Meta,50251,exacto,100.0
+1438584,La Salina,Casanare,85136,exacto,100.0
+1438577,Támara,Casanare,85400,exacto,100.0
+1438582,San Juanito,Meta,50686,exacto,100.0
+1350646,El Calvario,Meta,50245,exacto,100.0
+1448415,Arjona,Bolívar,13052,exacto,100.0
+1448420,San Estanislao,Bolívar,13647,exacto,100.0
+1342464,Repelón,Atlántico,08606,exacto,100.0
+1448414,Soplaviento,Bolívar,13760,exacto,100.0
+1448418,Mahates,Bolívar,13433,exacto,100.0
+1341497,Calamar,Bolívar,13140,exacto,100.0
+1448412,Turbaco,Bolívar,13836,exacto,100.0
+2460383,Turbaná,Bolívar,13838,exacto,100.0
+1448413,Santa Rosa de Lima,Bolívar,13683,subconjunto,100.0
+1448410,Villanueva,Bolívar,13873,exacto,100.0
+1448416,María la Baja,Bolívar,13442,exacto,100.0
+1448407,San Juan Nepomuceno,Bolívar,13657,exacto,100.0
+1423458,Tenerife,Magdalena,47798,exacto,100.0
+1448409,Zambrano,Bolívar,13894,exacto,100.0
+1423479,Plato,Magdalena,47555,exacto,100.0
+1448408,Córdoba,Bolívar,13212,exacto,100.0
+1448411,San Jacinto,Bolívar,13654,exacto,100.0
+1320710,El Peñol,Nariño,52254,exacto,100.0
+1453542,El Tambo,Nariño,52260,exacto,100.0
+1455822,Chachagüí,Nariño,52240,exacto,100.0
+1342121,Albania,Caquetá,18029,exacto,100.0
+1342107,Pital,Huila,41548,exacto,100.0
+4079004,Florencia,Caquetá,18001,exacto,100.0
+1342089,Tesalia,Huila,41797,exacto,100.0
+1459941,Nátaga,Huila,41483,exacto,100.0
+1459974,Paicol,Huila,41518,exacto,100.0
+4047009,Quimbaya,Quindío,63594,exacto,100.0
+1473586,El Águila,Valle del Cauca,76243,exacto,100.0
+1473602,Rosas,Cauca,19622,exacto,100.0
+407428,Marulanda,Caldas,17446,exacto,100.0
+410728,Aranzazu,Caldas,17050,exacto,100.0
+1554704,La Vega,Cauca,19397,exacto,100.0
+1315415,Sutatenza,Boyacá,15778,exacto,100.0
+1354480,La Peña,Cundinamarca,25398,exacto,100.0
+1354447,La Palma,Cundinamarca,25394,exacto,100.0
+1412714,Quebradanegra,Cundinamarca,25592,exacto,100.0
+1412856,Nimaima,Cundinamarca,25489,exacto,100.0
+1473590,Toro,Valle del Cauca,76823,exacto,100.0
+1473589,La Unión,Valle del Cauca,76400,exacto,100.0
+1460959,Obando,Valle del Cauca,76497,exacto,100.0
+1473604,La Sierra,Cauca,19392,exacto,100.0
+1473607,Timbío,Cauca,19807,exacto,100.0
+408356,Marmato,Caldas,17442,exacto,100.0
+410732,La Merced,Caldas,17388,exacto,100.0
+1723758,Corinto,Cauca,19212,exacto,100.0
+1740146,Toribío,Cauca,19821,exacto,100.0
+1303947,Páez,Cauca,19517,exacto,100.0
+1342118,Puerto Asís,Putumayo,86568,exacto,100.0
+1311675,San Miguel (La Dorada),Putumayo,86757,exacto,100.0
+1309436,Palocabildo,Tolima,73520,exacto,100.0
+1356413,Almaguer,Cauca,19022,exacto,100.0
+1315419,Chivor,Boyacá,15236,exacto,100.0
+1353247,Macanal,Boyacá,15425,exacto,100.0
+1309988,San Lorenzo,Nariño,52687,exacto,100.0
+1314685,Algarrobo,Magdalena,47030,exacto,100.0
+1315416,Nuevo Colón,Boyacá,15494,exacto,100.0
+1315414,Turmequé,Boyacá,15835,exacto,100.0
+4060664,El Copey,Cesar,20238,exacto,100.0
+1423468,Bosconia,Cesar,20060,exacto,100.0
+1315411,Garagoa,Boyacá,15299,exacto,100.0
+1314683,Urumita,La Guajira,44855,exacto,100.0
+1314628,Villanueva,La Guajira,44874,exacto,100.0
+1314630,El Molino,La Guajira,44110,exacto,100.0
+1314629,San Juan del Cesar,La Guajira,44650,exacto,100.0
+1351871,Hacarí,Norte de Santander,54344,exacto,100.0
+1356450,Guadalupe,Huila,41319,exacto,100.0
+1309442,Suaza,Huila,41770,exacto,100.0
+1335177,Achí,Bolívar,13006,exacto,100.0
+1345217,Tocaima,Cundinamarca,25815,exacto,100.0
+1342130,San Antonio,Tolima,73675,exacto,100.0
+4047301,Roncesvalles,Tolima,73622,exacto,100.0
+1423502,Santa Ana,Magdalena,47707,exacto,100.0
+1329820,Talaigua Nuevo,Bolívar,13780,exacto,100.0
+1324948,San Juan de Betulia,Sucre,70702,exacto,100.0
+1324929,San Pedro,Sucre,70717,exacto,100.0
+1324917,Corozal,Sucre,70215,exacto,100.0
+1343440,Los Palmitos,Sucre,70418,exacto,100.0
+1356460,Medina,Cundinamarca,25438,exacto,100.0
+1459033,Morelia,Caquetá,18479,exacto,100.0
+1459025,Milán,Caquetá,18460,exacto,100.0
+1473594,Roldanillo,Valle del Cauca,76622,exacto,100.0
+1473595,La Victoria,Valle del Cauca,76403,exacto,100.0
+1345071,Ciénega,Boyacá,15189,exacto,100.0
+1345076,Rondón,Boyacá,15621,exacto,100.0
+1422330,Útica,Cundinamarca,25851,exacto,100.0
+1345036,Jenesano,Boyacá,15367,exacto,100.0
+1351876,Ramiriquí,Boyacá,15599,exacto,100.0
+1343456,Puerto Escondido,Córdoba,23574,exacto,100.0
+1308617,Valle de San Juan,Tolima,73854,exacto,100.0
+1423505,El Carmen de Chucurí,Santander,68235,exacto,100.0
+1423493,Hato,Santander,68344,exacto,100.0
+1315455,contratación,Santander,68211,exacto,100.0
+1315466,Chima,Santander,68176,exacto,100.0
+1315456,Gámbita,Santander,68298,exacto,100.0
+1460028,San José del Fragua,Caquetá,18610,exacto,100.0
+1310024,Santa Rosa,Cauca,19701,exacto,100.0
+1631652,San Sebastián,Cauca,19693,exacto,100.0
+1342096,Isnos,Huila,41359,exacto,100.0
+1309437,San Agustín,Huila,41668,exacto,100.0
+1473611,Puracé,Cauca,19585,exacto,100.0
+1554330,Área en litigio,Cauca,,sin_cruce,0.0
+1453518,Guachené,Cauca,19300,exacto,100.0
+1717035,Santander de Quilichao,Cauca,19698,exacto,100.0
+1438574,Chámeza,Casanare,85015,exacto,100.0
+1353019,Chíquiza,Boyacá,15232,exacto,100.0
+1315406,Ráquira,Boyacá,15600,exacto,100.0
+1306570,Sutamarchán,Boyacá,15776,exacto,100.0
+1314684,La Jagua del Pilar,La Guajira,44420,exacto,100.0
+1423490,San Diego,Cesar,20750,exacto,100.0
+1423509,Valledupar,Cesar,20001,exacto,100.0
+1335189,Juan de Acosta,Atlántico,08372,exacto,100.0
+1335178,Tubará,Atlántico,08832,exacto,100.0
+1315409,Sáchica,Boyacá,15638,exacto,100.0
+1315417,Villa de Leyva,Boyacá,15407,exacto,100.0
+1315391,Gámeza,Boyacá,15296,exacto,100.0
+1315388,Mongua,Boyacá,15464,exacto,100.0
+1315430,Chita,Boyacá,15183,exacto,100.0
+1353543,Tibaná,Boyacá,15804,exacto,100.0
+1305052,Paime,Cundinamarca,25518,exacto,100.0
+1315408,Pachavita,Boyacá,15511,exacto,100.0
+1315421,Berbeo,Boyacá,15090,exacto,100.0
+1315413,Úmbita,Boyacá,15842,exacto,100.0
+1353484,Chinavita,Boyacá,15172,exacto,100.0
+1344976,Quípama,Boyacá,15580,exacto,100.0
+1315405,Miraflores,Boyacá,15455,exacto,100.0
+1354797,Zetaquira,Boyacá,15897,exacto,100.0
+1315420,Campohermoso,Boyacá,15135,exacto,100.0
+1307024,El Cantón de San Pablo,Chocó,27135,subconjunto,97.77777777777777
+1764419,Villa Rica,Cauca,19845,exacto,100.0
+19054860,San Bernardo ciudad,Cundinamarca,25649,subconjunto,100.0
+1342090,Rovira,Tolima,73624,exacto,100.0
+1315422,Charalá,Santander,68167,exacto,100.0
+1315446,Encino,Santander,68264,exacto,100.0
+1329742,Simití,Bolívar,13744,exacto,100.0
+1308640,Tibasosa,Boyacá,15806,exacto,100.0
+1342085,Cajamarca,Tolima,73124,exacto,100.0
+1310023,Piamonte,Cauca,19533,exacto,100.0
+4060575,Villagarzón,Putumayo,86885,exacto,100.0
+1343685,Santa Bárbara,Santander,68705,exacto,100.0
+1308641,Tasco,Boyacá,15790,exacto,100.0
+1315432,Socotá,Boyacá,15755,exacto,100.0
+1315079,El Peñón,Santander,68250,exacto,100.0
+1344997,Muzo,Boyacá,15480,exacto,100.0
+1345222,Yacopí,Cundinamarca,25885,exacto,100.0
+1309446,Agrado,Huila,41013,exacto,100.0
+1309450,Garzón,Huila,41298,exacto,100.0
+1348326,La Virginia,Risaralda,66400,exacto,100.0
+1343030,Santuario,Risaralda,66687,exacto,100.0
+1309480,Apía,Risaralda,66045,exacto,100.0
+1722357,Caldonó,Cauca,19137,exacto,100.0
+1350459,Las Ánimas,Chocó,,sin_cruce,0.0
+1343728,Betulia,Santander,68092,exacto,100.0
+1347532,Buenavista,Quindío,63111,exacto,100.0
+1343025,Córdoba,Quindío,63212,exacto,100.0
+1320726,Taminango,Nariño,52786,exacto,100.0
+1346486,Villapinzón,Cundinamarca,25873,exacto,100.0
+1311681,Olaya Herrera (Bocas de Satinga),Nariño,52490,exacto,100.0
+1355567,Magüi Payán,Nariño,52427,subconjunto,100.0
+1311769,Sandoná,Nariño,52683,exacto,100.0
+1311746,Roberto Payán (San José),Nariño,52621,exacto,100.0
+1725505,Piendamó,Cauca,19548,subconjunto,100.0
+1632053,Patía,Cauca,19532,exacto,100.0
+11311826,Puerto Rondón,Arauca,81591,exacto,100.0
+11313104,Orocué,Casanare,85230,exacto,100.0
+11313177,San Luis de Palenque,Casanare,85325,exacto,100.0
+11313200,Trinidad,Casanare,85430,exacto,100.0
+11313213,Nunchía,Casanare,85225,exacto,100.0
+11313241,Pore,Casanare,85263,exacto,100.0
+1315392,Pajarito,Boyacá,15518,exacto,100.0
+1315412,Páez,Boyacá,15514,exacto,100.0
+11319551,Santa Rosalía,Vichada,99624,exacto,100.0
+1438581,Restrepo,Meta,50606,exacto,100.0
+11371698,Cumaral,Meta,50226,exacto,100.0
+1356876,Paratebueno,Cundinamarca,25530,exacto,100.0
+1311764,Cumbal,Nariño,52227,exacto,100.0
+1311677,Consacá,Nariño,52207,exacto,100.0
+1453522,Linares,Nariño,52411,exacto,100.0
+11326597,La Llanada,Nariño,52385,exacto,100.0
+11326664,Los Andes Sotomayor,Nariño,52418,subconjunto,100.0
+11329285,Guaitarilla,Nariño,52320,exacto,100.0
+11329283,Imués,Nariño,52354,exacto,100.0
+11331777,Potosí,Nariño,52560,exacto,100.0
+11332010,Córdoba,Nariño,52215,exacto,100.0
+11329267,Ospina,Nariño,52506,exacto,100.0
+1311687,Cuaspud,Nariño,52224,subconjunto,100.0
+11333637,Guachucal,Nariño,52317,exacto,100.0
+1335171,Tiquisio,Bolívar,13810,exacto,100.0
+2463270,Norosí,Bolívar,13490,exacto,100.0
+1343466,Río Viejo,Bolívar,13600,exacto,100.0
+1314968,El Playón,Santander,68255,exacto,100.0
+1423477,Matanza,Santander,68444,exacto,100.0
+1315387,Santa Rosa de Viterbo,Boyacá,15693,exacto,100.0
+11319054,Villanueva,Casanare,85440,exacto,100.0
+1342036,Lejanías,Meta,50400,exacto,100.0
+11375320,Castilla La Nueva,Meta,50150,exacto,100.0
+1438583,El Dorado,Meta,50270,exacto,100.0
+1438575,Guamal,Meta,50318,exacto,100.0
+11373709,San Juan de Arama,Meta,50683,exacto,100.0
+11375373,Cubarral,Meta,50223,exacto,100.0
+4060568,Puerto Guzmán,Putumayo,86571,exacto,100.0
+1456137,Curillo,Caquetá,18205,exacto,100.0
+1343387,California,Santander,68132,exacto,100.0
+1314972,Suratá,Santander,68780,exacto,100.0
+11323982,Ancuya,Nariño,52036,exacto,100.0
+1309445,Herveo,Tolima,73347,exacto,100.0
+1473596,Trujillo,Valle del Cauca,76828,exacto,100.0
+11895070,Guachetá,Cundinamarca,25317,exacto,100.0
+1354486,Vergara,Cundinamarca,25862,exacto,100.0
+1354469,Topaipí,Cundinamarca,25823,exacto,100.0
+10688131,Supatá,Cundinamarca,25777,exacto,100.0
+1354753,Nocaima,Cundinamarca,25491,exacto,100.0
+1412828,Villeta,Cundinamarca,25875,exacto,100.0
+1315399,Guayatá,Boyacá,15325,exacto,100.0
+1356172,Zipaquirá,Cundinamarca,25899,exacto,100.0
+1423461,Remolino,Magdalena,47605,exacto,100.0
+1423492,Chibolo,Magdalena,47170,exacto,100.0
+11890151,Pivijay,Magdalena,47551,exacto,100.0
+11890197,Sabanas de San Ángel,Magdalena,47660,exacto,100.0
+11891221,Curumaní,Cesar,20228,exacto,100.0
+1423474,Chimichagua,Cesar,20175,exacto,100.0
+1423486,El Paso,Cesar,20250,exacto,100.0
+11891460,Chiriguaná,Cesar,20178,exacto,100.0
+11891732,La Playa de Belén,Norte de Santander,54398,subconjunto,100.0
+1351320,El Tarra,Norte de Santander,54250,exacto,100.0
+11892018,San Calixto,Norte de Santander,54670,exacto,100.0
+1423459,Ocaña,Norte de Santander,54498,exacto,100.0
+11891928,Teorama,Norte de Santander,54800,exacto,100.0
+4060699,González,Cesar,20310,exacto,100.0
+11893388,Lourdes,Norte de Santander,54418,exacto,100.0
+11893926,La Esperanza,Norte de Santander,54385,exacto,100.0
+11894047,Providencia,Nariño,52565,exacto,100.0
+11894039,Samaniego,Nariño,52678,exacto,100.0
+1314969,Rionegro,Santander,68615,exacto,100.0
+11897330,Puerto Wilches,Santander,68575,exacto,100.0
+1315410,Guateque,Boyacá,15322,exacto,100.0
+11897354,Manta,Cundinamarca,25436,exacto,100.0
+11897374,Tibirita,Cundinamarca,25807,exacto,100.0
+10688525,Gachetá,Cundinamarca,25297,exacto,100.0
+11909530,Junín,Cundinamarca,25372,exacto,100.0
+11909566,Gama,Cundinamarca,25299,exacto,100.0
+1356457,Gachalá,Cundinamarca,25293,exacto,100.0
+11909599,Guatavita,Cundinamarca,25326,exacto,100.0
+10688531,Machetá,Cundinamarca,25426,exacto,100.0
+1346513,Tocancipá,Cundinamarca,25817,exacto,100.0
+1346504,Gachancipá,Cundinamarca,25295,exacto,100.0
+11909823,Nemocón,Cundinamarca,25486,exacto,100.0
+11909803,Tausa,Cundinamarca,25793,exacto,100.0
+1356228,San Cayetano,Cundinamarca,25653,exacto,100.0
+13436740,Villagómez,Cundinamarca,25871,exacto,100.0
+1346517,Cogua,Cundinamarca,25200,exacto,100.0
+11888630,Pacho,Cundinamarca,25513,exacto,100.0
+1422329,Buenavista,Boyacá,15109,exacto,100.0
+11909887,Simijaca,Cundinamarca,25745,exacto,100.0
+1423506,Sardinata,Norte de Santander,54720,exacto,100.0
+11910119,Bucarasica,Norte de Santander,54109,exacto,100.0
+1423499,Ábrego,Norte de Santander,54003,exacto,100.0
+11378018,Calamar,Guaviare,95015,exacto,100.0
+1438572,Hato Corozal,Casanare,85125,exacto,100.0
+1438576,Paz de Ariporo,Casanare,85250,exacto,100.0
+1324933,San Pedro de Urabá,Antioquia,05665,exacto,100.0
+1343653,Bochalema,Norte de Santander,54099,exacto,100.0
+1423488,Chinácota,Norte de Santander,54172,exacto,100.0
+1423469,Pamplonita,Norte de Santander,54520,exacto,100.0
+1343129,Salazar,Norte de Santander,54660,exacto,100.0
+11893635,Gramalote,Norte de Santander,54313,exacto,100.0
+1423478,El Zulia,Norte de Santander,54261,exacto,100.0
+1423491,San Alberto,Cesar,20710,exacto,100.0
+1423454,San Martín,Cesar,20770,exacto,100.0
+11375017,Villavicencio,Meta,50001,exacto,100.0
+11372668,Puerto Rico,Meta,50590,exacto,100.0
+11375598,Puerto Lleras,Meta,50577,exacto,100.0
+1344470,Puerto Parra,Santander,68573,exacto,100.0
+11329266,Túquerres,Nariño,52838,exacto,100.0
+11329238,Sapuyes,Nariño,52720,exacto,100.0
+11323754,Yacuanquer,Nariño,52885,exacto,100.0
+1423510,Cerrito,Santander,68162,exacto,100.0
+1423503,Chitagá,Norte de Santander,54174,exacto,100.0
+1423483,Mutiscua,Norte de Santander,54480,exacto,100.0
+1343414,Pamplona,Norte de Santander,54518,exacto,100.0
+1342091,Falan,Tolima,73270,exacto,100.0
+1315457,El Guacamayo,Santander,68245,exacto,100.0
+1315454,Aguada,Santander,68013,exacto,100.0
+1423501,Galán,Santander,68296,exacto,100.0
+1631618,Sucre,Cauca,19785,exacto,100.0
+1717031,Buenos Aires,Cauca,19110,exacto,100.0
+1473615,Ginebra,Valle del Cauca,76306,exacto,100.0
+1473616,Guacarí,Valle del Cauca,76318,exacto,100.0
+1343446,Pinillos,Bolívar,13549,exacto,100.0
+1326231,Magangué,Bolívar,13430,exacto,100.0
+1311765,Santa Bárbara,Nariño,52696,exacto,100.0
+1310021,Guapi,Cauca,19318,exacto,100.0
+1335182,La Victoria,Amazonas,91430,subconjunto,100.0
+1342095,San Vicente del Caguán,Caquetá,18753,exacto,100.0
+11372667,La Macarena,Meta,50350,exacto,100.0
+11380591,Morichal Nuevo,Guainía,,sin_cruce,0.0
+1350656,Cotorra,Córdoba,23300,exacto,100.0
+1343455,San Pelayo,Córdoba,23686,exacto,100.0
+4840466,Sogamoso,Boyacá,15759,exacto,100.0
+11347687,Nobsa,Boyacá,15491,exacto,100.0
+1315394,Corrales,Boyacá,15215,exacto,100.0
+1352343,Tópaga,Boyacá,15820,exacto,100.0
+1356246,Salento,Quindío,63690,exacto,100.0
+1459999,San Francisco,Putumayo,86755,exacto,100.0
+1342113,Tello,Huila,41799,exacto,100.0
+1309441,Villavieja,Huila,41872,exacto,100.0
+1473597,San Pedro,Valle del Cauca,76670,exacto,100.0
+1461502,Buga,Valle del Cauca,76111,subconjunto,100.0
+1421703,San Bernardo,Cundinamarca,25649,exacto,100.0
+1354767,Venecia,Cundinamarca,25506,exacto,100.0
+1356410,Guamo,Tolima,73319,exacto,100.0
+1356337,Espinal,Tolima,73268,exacto,100.0
+4047422,Suárez,Tolima,73770,exacto,100.0
+1308613,Alvarado,Tolima,73026,exacto,100.0
+1342100,Santa Isabel,Tolima,73686,exacto,100.0
+1308621,Anzoátegui,Tolima,73043,exacto,100.0
+1473610,Palmira,Valle del Cauca,76520,exacto,100.0
+1473612,El Cerrito,Valle del Cauca,76248,exacto,100.0
+1473617,Totoró,Cauca,19824,exacto,100.0
+1740111,Silvia,Cauca,19743,exacto,100.0
+1717033,Morales,Cauca,19473,exacto,100.0
+1717032,Cajibío,Cauca,19130,exacto,100.0
+1632120,El Tambo,Cauca,19256,exacto,100.0
+385843,Villamaría,Caldas,17873,exacto,100.0
+385841,Palestina,Caldas,17524,exacto,100.0
+1355693,Albán,Cundinamarca,25019,exacto,100.0
+1314678,Sitionuevo,Magdalena,47745,exacto,100.0
+1342108,Ibagué,Tolima,73001,exacto,100.0
+1343442,San Onofre,Sucre,70713,exacto,100.0
+11375750,Miraflores,Guaviare,95200,exacto,100.0
+1320707,Cali,Valle del Cauca,76001,exacto,100.0
+1354431,Ubalá,Cundinamarca,25839,exacto,100.0
+1315401,Santa María,Boyacá,15690,exacto,100.0
+1438578,Fortul,Arauca,81300,exacto,100.0
+11381990,Papunahua,Vaupés,97777,subconjunto,100.0
+11892258,El Carmen,Norte de Santander,54245,exacto,100.0
+11892166,Convención,Norte de Santander,54206,exacto,100.0
+1324955,Ovejas,Sucre,70508,exacto,100.0
+1448419,El Carmen de Bolívar,Bolívar,13244,exacto,100.0
+1335170,Puerto Alegría,Amazonas,91530,subconjunto,100.0
+3718640,La Pedrera,Amazonas,91407,subconjunto,100.0
+1335169,Puerto Nariño,Amazonas,91540,exacto,100.0
+1335168,Santa Rosa del Sur,Bolívar,13688,exacto,100.0
+1326251,Montecristo,Bolívar,13458,exacto,100.0
+1311763,Ulloa,Valle del Cauca,76845,exacto,100.0
+1460505,Alcalá,Valle del Cauca,76020,exacto,100.0
+1759531,Puerto Tejada,Cauca,19573,exacto,100.0
+1335187,Mirití-Paraná,Amazonas,91460,subconjunto,100.0
+1717036,Suárez,Cauca,19780,exacto,100.0
+4046923,Jamundí,Valle del Cauca,76364,exacto,100.0
+1335188,Cantagallo,Bolívar,13160,exacto,100.0
+1348334,Balboa,Risaralda,66075,exacto,100.0
+4079109,La Celia,Risaralda,66383,exacto,100.0
+1324918,Apartadó,Antioquia,05045,exacto,100.0
+1316175,Campamento,Antioquia,05134,exacto,100.0
+1307022,La Pintada,Antioquia,05390,exacto,100.0
+1723761,Miranda,Cauca,19455,exacto,100.0
+1348583,Valparaíso,Antioquia,05856,exacto,100.0
+1423450,San Cayetano,Norte de Santander,54673,exacto,100.0
+1423482,Los Patios,Norte de Santander,54405,exacto,100.0
+1457952,La Plata,Huila,41396,exacto,100.0
+1473614,Inzá,Cauca,19355,exacto,100.0
+2346720,Inírida,Guainía,94001,exacto,100.0
+11378726,Cacahual,Guainía,94886,subconjunto,100.0
+1462480,Bugalagrande,Valle del Cauca,76113,exacto,100.0
+410733,Neira,Caldas,17486,exacto,100.0
+1342102,Valparaíso,Caquetá,18860,exacto,100.0
+1342124,Solita,Caquetá,18785,exacto,100.0
+1309481,Montenegro,Quindío,63470,exacto,100.0
+1345101,Cucaita,Boyacá,15224,exacto,100.0
+1315407,Samacá,Boyacá,15646,exacto,100.0
+1315403,Ventaquemada,Boyacá,15861,exacto,100.0
+1345031,Boyacá,Boyacá,15104,exacto,100.0
+1344425,Oicatá,Boyacá,15500,exacto,100.0
+1345213,Soracá,Boyacá,15764,exacto,100.0
+1344159,Chivatá,Boyacá,15187,exacto,100.0
+1345186,Sora,Boyacá,15762,exacto,100.0
+1345185,Motavita,Boyacá,15476,exacto,100.0
+1344404,Tunja,Boyacá,15001,exacto,100.0
+1314686,Hato Nuevo,La Guajira,44378,difuso,94.7
+1438571,Distracción,La Guajira,44098,exacto,100.0
+11333699,Pupiales,Nariño,52585,exacto,100.0
+11333702,Aldana,Nariño,52022,exacto,100.0
+11379165,San Felipe,Guainía,94883,subconjunto,100.0
+11378924,La Guadalupe,Guainía,94885,subconjunto,100.0
+1309463,Icononzo,Tolima,73352,exacto,100.0
+1354768,Pandi,Cundinamarca,25524,exacto,100.0
+1309465,Villarrica,Tolima,73873,exacto,100.0
+1415409,Cabrera,Cundinamarca,25120,exacto,100.0
+4047593,Colombia,Huila,41206,exacto,100.0
+1342127,Baraya,Huila,41078,exacto,100.0
+407426,Manzanares,Caldas,17433,exacto,100.0
+1309447,Fresno,Tolima,73283,exacto,100.0
+407424,Marquetalia,Caldas,17444,exacto,100.0
+1309452,Mariquita,Tolima,73443,exacto,100.0
+407423,Victoria,Caldas,17867,exacto,100.0
+407425,La Dorada,Caldas,17380,exacto,100.0
+1342098,Honda,Tolima,73349,exacto,100.0
+1353412,Chaguaní,Cundinamarca,25168,exacto,100.0
+1342109,Armero,Tolima,73055,exacto,100.0
+1412959,San Juan de Rioseco,Cundinamarca,25662,exacto,100.0
+1309461,Ambalema,Tolima,73030,exacto,100.0
+1353371,Beltrán,Cundinamarca,25086,exacto,100.0
+1309460,Piedras,Tolima,73547,exacto,100.0
+1353191,Guataquí,Cundinamarca,25324,exacto,100.0
+1353177,Nariño,Cundinamarca,25483,exacto,100.0
+1309464,Coello,Tolima,73200,exacto,100.0
+1354625,Nilo,Cundinamarca,25488,exacto,100.0
+1343031,Melgar,Tolima,73449,exacto,100.0
+1311752,Orito,Putumayo,86320,exacto,100.0
+1315402,San Luís de Gaceno,Boyacá,15667,exacto,100.0
+11319147,Sabanalarga,Casanare,85300,exacto,100.0
+1464203,Zarzal,Valle del Cauca,76895,exacto,100.0
+1342133,Mocoa,Putumayo,86001,exacto,100.0
+1455831,Sibundoy,Putumayo,86749,exacto,100.0
+1311756,El Tablón de Gómez,Nariño,52258,exacto,100.0
+1456122,Colón,Putumayo,86219,exacto,100.0
+1455825,Santiago,Putumayo,86760,exacto,100.0
+1454259,Buesaco,Nariño,52110,exacto,100.0
+1309985,San Pablo,Nariño,52693,exacto,100.0
+1554702,Bolívar,Cauca,19100,exacto,100.0
+1309990,La Unión,Nariño,52399,exacto,100.0
+1554698,Florencia,Cauca,19290,exacto,100.0
+1320721,El Rosario,Nariño,52256,exacto,100.0
+1554703,Mercaderes,Cauca,19450,exacto,100.0
+1632077,Argelia,Cauca,19050,exacto,100.0
+1320723,Leiva,Nariño,52405,exacto,100.0
+1694626,Balboa,Cauca,19075,exacto,100.0
+1342125,Puerto Leguízamo,Putumayo,86573,exacto,100.0
+5794061,La Cumbre,Valle del Cauca,76377,exacto,100.0
+1320727,Yumbo,Valle del Cauca,76892,exacto,100.0
+1308620,Murillo,Tolima,73461,exacto,100.0
+1309451,Líbano,Tolima,73411,exacto,100.0
+1308616,Lérida,Tolima,73408,exacto,100.0
+1308618,Venadillo,Tolima,73861,exacto,100.0
+1309448,Villahermosa,Tolima,73870,exacto,100.0
+1309438,Casabianca,Tolima,73152,exacto,100.0
+1454218,La Florida,Nariño,52381,exacto,100.0
+1454221,Nariño,Nariño,52480,exacto,100.0
+11323562,Pasto,Nariño,52001,exacto,100.0
+11323753,Tangua,Nariño,52788,exacto,100.0
+11332236,Funes,Nariño,52287,exacto,100.0
+1414846,Fusagasugá,Cundinamarca,25290,exacto,100.0
+1414794,Arbeláez,Cundinamarca,25053,exacto,100.0
+11380495,Puerto Colombia,Guainía,94884,subconjunto,100.0
+1354793,Silvania,Cundinamarca,25743,exacto,100.0
+1413207,Pasca,Cundinamarca,25535,exacto,100.0
+1356138,Sibaté,Cundinamarca,25740,exacto,100.0
+1309462,Flandes,Tolima,73275,exacto,100.0
+1353143,Girardot,Cundinamarca,25307,exacto,100.0
+1353060,Ricaurte,Cundinamarca,25612,exacto,100.0
+1341567,Malambo,Atlántico,08433,exacto,100.0
+10688528,Guasca,Cundinamarca,25322,exacto,100.0
+8347238,La Calera,Cundinamarca,25377,exacto,100.0
+1419938,Choachí,Cundinamarca,25181,exacto,100.0
+1421709,Fómeque,Cundinamarca,25279,exacto,100.0
+1421723,Cáqueza,Cundinamarca,25151,exacto,100.0
+1346368,Ubaque,Cundinamarca,25841,exacto,100.0
+1345091,Chipaque,Cundinamarca,25178,exacto,100.0
+1356238,Guayabetal,Cundinamarca,25335,exacto,100.0
+11891528,La Jagua de Ibirico,Cesar,20400,exacto,100.0
+11332349,Iles,Nariño,52352,exacto,100.0
+11333474,Gualmatán,Nariño,52323,exacto,100.0
+1453491,Contadero,Nariño,52210,exacto,100.0
+11332179,Puerres,Nariño,52573,exacto,100.0
+1343032,Circasia,Quindío,63190,exacto,100.0
+3594131,Filandia,Quindío,63272,exacto,100.0
+1311674,Ipiales,Nariño,52356,exacto,100.0
+1413037,Funza,Cundinamarca,25286,exacto,100.0
+1355853,Anolaima,Cundinamarca,25040,exacto,100.0
+10688523,Sasaima,Cundinamarca,25718,exacto,100.0
+10688130,La Vega,Cundinamarca,25402,exacto,100.0
+11896145,Puerto Santander,Norte de Santander,54553,exacto,100.0
+11896741,Ragonvalia,Norte de Santander,54599,exacto,100.0
+11895448,Herrán,Norte de Santander,54347,exacto,100.0
+2721167,Becerril,Cesar,20045,exacto,100.0
+1343260,Acandí,Chocó,27006,exacto,100.0
+1343141,Juradó,Chocó,27372,exacto,100.0
+11319705,Puerto Carreño,Vichada,99001,exacto,100.0
+11319669,La Primavera,Vichada,99524,exacto,100.0
+11312106,Arauquita,Arauca,81065,exacto,100.0
+11311667,Saravena,Arauca,81736,exacto,100.0
+11895166,Cubará,Boyacá,15223,exacto,100.0
+11895624,Toledo,Norte de Santander,54820,exacto,100.0
+1343265,Unguía,Chocó,27800,exacto,100.0
+11371824,Puerto Gaitán,Meta,50568,exacto,100.0
+1346479,Chocontá,Cundinamarca,25183,exacto,100.0
+1346489,Sesquilé,Cundinamarca,25736,exacto,100.0
+11909704,Suesca,Cundinamarca,25772,exacto,100.0
+1307006,Río Quito,Chocó,27600,exacto,100.0
+1343040,Alto Baudó (Pie de Pató),Chocó,27025,exacto,100.0
+1307001,Medio Baudó,Chocó,27430,exacto,100.0
+1309485,Medio San Juan,Chocó,27450,exacto,100.0
+1324943,Carepa,Antioquia,05147,exacto,100.0
+1348348,El Atrato,Chocó,,sin_cruce,0.0
+1309484,Cértegui,Chocó,27160,exacto,100.0
+1344032,Chipatá,Santander,68179,exacto,100.0
+1343024,Lloró,Chocó,27413,exacto,100.0
+1315462,Güepsa,Santander,68327,exacto,100.0
+1315426,Barbosa,Santander,68077,exacto,100.0
+1343037,Pueblo Rico,Risaralda,66572,exacto,100.0
+1350432,Tadó,Chocó,27787,exacto,100.0
+1306998,Río Iró,Chocó,27580,exacto,100.0
+1309483,Condoto,Chocó,27205,exacto,100.0
+1309474,Nóvita,Chocó,27491,exacto,100.0
+1343038,San José del Palmar,Chocó,27660,exacto,100.0
+1473587,El Dovio,Valle del Cauca,76250,exacto,100.0
+1309472,Istmina,Chocó,27361,exacto,100.0
+1309475,Sipí,Chocó,27745,exacto,100.0
+1461292,Bolívar,Valle del Cauca,76100,exacto,100.0
+1324949,El Bagre,Antioquia,05250,exacto,100.0
+1315451,Guavatá,Santander,68324,exacto,100.0
+4079108,Belén de Umbría,Risaralda,66088,exacto,100.0
+408547,Anserma,Caldas,17042,exacto,100.0
+410729,Filadelfia,Caldas,17272,exacto,100.0
+1309473,Quinchía,Risaralda,66594,exacto,100.0
+408545,Belalcázar,Caldas,17088,exacto,100.0
+1347548,Dosquebradas,Risaralda,66170,exacto,100.0
+1309476,Santa Rosa de Cabal,Risaralda,66682,exacto,100.0
+408116,Chinchiná,Caldas,17174,exacto,100.0
+1309479,Marsella,Risaralda,66440,exacto,100.0
+1319503,Florida,Valle del Cauca,76275,exacto,100.0
+4046886,Dagua,Valle del Cauca,76233,exacto,100.0
+4046719,Timbiquí,Cauca,19809,exacto,100.0
+1311685,López,Cauca,19418,subconjunto,100.0
+1461222,Argelia,Valle del Cauca,76054,exacto,100.0
+1473583,El Cairo,Valle del Cauca,76246,exacto,100.0
+1473592,Versalles,Valle del Cauca,76863,exacto,100.0
+1343044,Calarcá,Quindío,63130,exacto,100.0
+1309478,Pijao,Quindío,63548,exacto,100.0
+4046960,Sevilla,Valle del Cauca,76736,exacto,100.0
+1470279,Caicedonia,Valle del Cauca,76122,exacto,100.0
+1309482,Génova,Quindío,63302,exacto,100.0
+1461001,Andalucía,Valle del Cauca,76036,exacto,100.0
+1473598,Tuluá,Valle del Cauca,76834,exacto,100.0
+1473605,Restrepo,Valle del Cauca,76606,exacto,100.0
+1554306,Vijes,Valle del Cauca,76869,exacto,100.0
+1324951,Purísima,Córdoba,23586,subconjunto,100.0
+1343459,San Antero,Córdoba,23672,exacto,100.0
+1350666,Momil,Córdoba,23464,exacto,100.0
+1324931,Sincelejo,Sucre,70001,exacto,100.0
+1343454,San Antonio de Palmito,Sucre,70523,subconjunto,100.0
+1324934,Sampués,Sucre,70670,exacto,100.0
+1346349,Tuchín,Córdoba,23815,exacto,100.0
+1343438,Chimá,Córdoba,23168,exacto,100.0
+1343463,San Andrés de Sotavento,Córdoba,23670,subconjunto,100.0
+1342088,Aipe,Huila,41016,exacto,100.0
+1342092,Santa María,Huila,41676,exacto,100.0
+1342086,Palermo,Huila,41524,exacto,100.0
+1342126,Neiva,Huila,41001,exacto,100.0
+1342921,Dolores,Tolima,73236,exacto,100.0
+1342923,Alpujarra,Tolima,73024,exacto,100.0
+1315461,Santa Helena del Opón,Santander,68720,exacto,100.0
+1315082,Landázuri,Santander,68385,exacto,100.0
+1342919,Purificación,Tolima,73585,exacto,100.0
+1342922,Natagaima,Tolima,73483,exacto,100.0
+1343035,San Luis,Tolima,73678,exacto,100.0
+1308612,Saldaña,Tolima,73671,exacto,100.0
+1413026,Madrid,Cundinamarca,25430,exacto,100.0
+11889093,Subachoque,Cundinamarca,25769,exacto,100.0
+11895072,San Francisco,Cundinamarca,25658,exacto,100.0
+9175595,El Rosal,Cundinamarca,25260,exacto,100.0
+1308615,Coyaima,Tolima,73217,exacto,100.0
+4047308,Ataco,Tolima,73067,exacto,100.0
+11334013,Barrancominas,Guainía,94343,exacto,100.0
+1342924,Ortega,Tolima,73504,exacto,100.0
+1308619,Chaparral,Tolima,73168,exacto,100.0
+1421811,Gutiérrez,Cundinamarca,25339,exacto,100.0
+1421796,Une,Cundinamarca,25845,exacto,100.0
+1355929,La Mesa,Cundinamarca,25386,exacto,100.0
+1412932,Cachipay,Cundinamarca,25123,exacto,100.0
+1346376,Zipacón,Cundinamarca,25898,exacto,100.0
+10688524,Facatativá,Cundinamarca,25269,exacto,100.0
+1413196,Soacha,Cundinamarca,25754,exacto,100.0
+1356128,Granada,Cundinamarca,25312,exacto,100.0
+1355978,Tena,Cundinamarca,25797,exacto,100.0
+1356077,Bojacá,Cundinamarca,25099,exacto,100.0
+1413003,El Colegio,Cundinamarca,25245,exacto,100.0
+1355985,San Antonio del Tequendama,Cundinamarca,25645,exacto,100.0
+1412596,Guaduas,Cundinamarca,25320,exacto,100.0
+1422325,Caparrapí,Cundinamarca,25148,exacto,100.0
+1422327,Puerto Salgar,Cundinamarca,25572,exacto,100.0
+11378346,San José del Guaviare,Guaviare,95001,exacto,100.0
+11378335,El Retorno,Guaviare,95025,exacto,100.0
+1460512,Cartago,Valle del Cauca,76147,exacto,100.0
+1461170,Ansermanuevo,Valle del Cauca,76041,exacto,100.0
+1343043,Pereira,Risaralda,66001,exacto,100.0
+1324927,Lorica,Córdoba,23417,exacto,100.0
+11319781,Cumaribo,Vichada,99773,exacto,100.0
+11312178,Arauca,Arauca,81001,exacto,100.0
+1314632,Cravo Norte,Arauca,81220,exacto,100.0
+1308644,Paipa,Boyacá,15516,exacto,100.0
+1308647,Duitama,Boyacá,15238,exacto,100.0
+410727,Pácora,Caldas,17513,exacto,100.0
+1343027,El Litoral del San Juan,Chocó,27250,exacto,100.0
+1307277,Envigado,Antioquia,05266,exacto,100.0
+1307270,Sabaneta,Antioquia,05631,exacto,100.0
+1307288,Puerto Berrío,Antioquia,05579,exacto,100.0
+1350586,Montebello,Antioquia,05467,exacto,100.0
+1307235,La Unión,Antioquia,05400,exacto,100.0
+1307238,La Ceja,Antioquia,05376,exacto,100.0
+1316178,Yondó,Antioquia,05893,exacto,100.0
+1316184,Remedios,Antioquia,05604,exacto,100.0
+1307256,Yalí,Antioquia,05885,exacto,100.0
+1316174,Vegachí,Antioquia,05858,exacto,100.0
+1316170,Segovia,Antioquia,05736,exacto,100.0
+1328504,San Pablo,Bolívar,13670,exacto,100.0
+11372871,Vista Hermosa,Meta,50711,difuso,96.0
+1308654,Tuta,Boyacá,15837,exacto,100.0
+1309477,La Tebaida,Quindío,63401,exacto,100.0
+1343039,Armenia,Quindío,63001,exacto,100.0
+1341569,Soledad,Atlántico,08758,exacto,100.0
+1473585,Padilla,Cauca,19513,exacto,100.0
+1722356,Caloto,Cauca,19142,exacto,100.0
+1315085,Bolívar,Santander,68101,exacto,100.0
+1315452,La Paz,Santander,68397,exacto,100.0
+1315460,Vélez,Santander,68861,exacto,100.0
+408354,Riosucio,Caldas,17614,exacto,100.0
+408355,Supía,Caldas,17777,exacto,100.0
+1348574,Caramanta,Antioquia,05145,exacto,100.0
+1307005,Támesis,Antioquia,05789,exacto,100.0
+1350634,Tarso,Antioquia,05792,exacto,100.0
+408549,Risaralda,Caldas,17616,exacto,100.0
+408548,San José,Caldas,17665,exacto,100.0
+408546,Viterbo,Caldas,17877,exacto,100.0
+1343443,Arboletes,Antioquia,05051,exacto,100.0
+1343471,San Juan de Urabá,Antioquia,05659,exacto,100.0
+1343460,Turbo,Antioquia,05837,exacto,100.0
+1343447,Moñitos,Córdoba,23500,exacto,100.0
+1343451,San Bernardo del Viento,Córdoba,23675,exacto,100.0
+2460349,Coveñas,Sucre,70221,exacto,100.0
+1314633,Dibulla,La Guajira,44090,exacto,100.0
+1314680,Manaure,La Guajira,44560,exacto,100.0
+1314631,Riohacha,La Guajira,44001,exacto,100.0
+1343445,Tolú,Sucre,70820,alias,100.0
+1311750,Tumaco,Nariño,52835,subconjunto,100.0
+1311684,La Tola,Nariño,52390,exacto,100.0
+8209431,El Charco,Nariño,52250,exacto,100.0
+1314682,Ciénaga,Magdalena,47189,exacto,100.0
+1314687,Santa Marta,Magdalena,47001,exacto,100.0
+1342101,Solano,Caquetá,18756,exacto,100.0
+1335172,La Chorrera,Amazonas,91405,subconjunto,100.0
+11317288,Tauramena,Casanare,85410,exacto,100.0
+10298142,Recetor,Casanare,85279,exacto,100.0
+1438580,Sácama,Casanare,85315,exacto,100.0
+11311666,Tame,Arauca,81794,exacto,100.0
+1342093,Planadas,Tolima,73555,exacto,100.0
+1308614,Rioblanco,Tolima,73616,exacto,100.0
+1314679,Fonseca,La Guajira,44279,exacto,100.0
+1314681,Barrancas,La Guajira,44078,exacto,100.0
+1335167,Puerto Santander,Amazonas,91669,subconjunto,100.0
+11890015,Manaure Balcón del Cesar,Cesar,20443,exacto,100.0
+2884601,Tibú,Norte de Santander,54810,exacto,100.0
+1343261,Murindó,Antioquia,05475,exacto,100.0
+1314675,Maicao,La Guajira,44430,exacto,100.0
+11896946,Villa del Rosario,Norte de Santander,54874,exacto,100.0
+8209432,Francisco Pizarro (Salahonda),Nariño,52520,exacto,100.0
+1311686,Mosquera,Nariño,52473,exacto,100.0
+11381007,Taraira,Vaupés,97666,exacto,100.0
+11381355,Carurú,Vaupés,97161,exacto,100.0
+11382169,Pacoa,Vaupés,97511,subconjunto,100.0
+11890103,Agustín Codazzi,Cesar,20013,exacto,100.0
+11890104,La Paz,Cesar,20621,exacto,100.0
+1307242,El Santuario,Antioquia,05697,exacto,100.0
+1350612,Granada,Antioquia,05313,exacto,100.0
+1307237,Cocorná,Antioquia,05197,exacto,100.0
+1307266,Maceo,Antioquia,05425,exacto,100.0
+18999202,El Vesubio,Antioquia,,sin_cruce,0.0
+1343439,Ayapel,Córdoba,23068,exacto,100.0
+1473600,Riofrío,Valle del Cauca,76616,exacto,100.0
+1324940,Nechí,Antioquia,05495,exacto,100.0
+1324935,La Apartada,Córdoba,23350,exacto,100.0
+19013950,Obregón,Antioquia,,sin_cruce,0.0
+1307258,Cisneros,Antioquia,05190,exacto,100.0
+7229628,Mesetas,Meta,50330,exacto,100.0
+7229667,Uribe,Meta,50370,exacto,100.0
+1307262,Bello,Antioquia,05088,exacto,100.0
+1307265,Entrerríos,Antioquia,05264,exacto,100.0
+1350647,Olaya,Antioquia,05501,exacto,100.0
+1316169,San Andrés de Cuerquia,Antioquia,05647,exacto,100.0
+19078813,Cucurucho,Antioquia,,sin_cruce,0.0
+11897110,Cúcuta,Norte de Santander,54001,subconjunto,100.0
+1316182,Anorí,Antioquia,05040,exacto,100.0
+1324938,Zaragoza,Antioquia,05895,exacto,100.0
+3947350,Caucasia,Antioquia,05154,exacto,100.0
+1343436,Cáceres,Antioquia,05120,exacto,100.0
+11895071,Tabio,Cundinamarca,25785,exacto,100.0
+1356149,Tenjo,Cundinamarca,25799,exacto,100.0
+1350526,Giraldo,Antioquia,05306,exacto,100.0
+11889894,Cajicá,Cundinamarca,25126,exacto,100.0
+10688529,Sopó,Cundinamarca,25758,exacto,100.0
+1316172,Buriticá,Antioquia,05113,exacto,100.0
+1316171,Sabanalarga,Antioquia,05628,exacto,100.0
+1343444,Tarazá,Antioquia,05790,exacto,100.0
+1316185,Briceño,Antioquia,05107,exacto,100.0
+1324947,Valdivia,Antioquia,05854,exacto,100.0
+1343279,Itagüí,Antioquia,05360,exacto,100.0
+1316180,Toledo,Antioquia,05819,exacto,100.0
+1316176,Peque,Antioquia,05543,exacto,100.0
+1316179,Ituango,Antioquia,05361,exacto,100.0
+1343262,Santa Fe de Antioquia,Antioquia,05042,difuso,97.6
+1343269,Sopetrán,Antioquia,05761,exacto,100.0
+1343138,Quibdó,Chocó,27001,exacto,100.0
+19267535,La Zuleja,Antioquia,,sin_cruce,0.0
+19270344,Brechoncito,Antioquia,,sin_cruce,0.0
+19270345,Penderisco Arriba,Antioquia,,sin_cruce,0.0
+1307291,Caicedo,Antioquia,05125,exacto,100.0
+1348640,Medio Atrato (Beté),Chocó,27425,exacto,100.0
+1307282,Urrao,Antioquia,05847,exacto,100.0
+1307279,Abriaquí,Antioquia,05004,exacto,100.0
+1343270,Dabeiba,Antioquia,05234,exacto,100.0
+1307271,Frontino,Antioquia,05284,exacto,100.0
+1316173,Cañasgordas,Antioquia,05138,exacto,100.0
+1316183,Uramita,Antioquia,05842,exacto,100.0
+11893741,Villa Caro,Norte de Santander,54871,exacto,100.0
+11893921,Cáchira,Norte de Santander,54128,exacto,100.0
+1307292,San Roque,Antioquia,05670,exacto,100.0
+1307239,San Rafael,Antioquia,05667,exacto,100.0
+1350599,Guatapé,Antioquia,05321,exacto,100.0
+1307286,Alejandría,Antioquia,05021,exacto,100.0
+3947503,Rionegro,Antioquia,05615,exacto,100.0
+1343285,Marinilla,Antioquia,05440,exacto,100.0
+1343259,El Peñol,Antioquia,05541,subconjunto,100.0
+1307273,Santo Domingo,Antioquia,05690,exacto,100.0
+1343284,Concepción,Antioquia,05206,exacto,100.0
+1307272,Guarne,Antioquia,05318,exacto,100.0
+3947504,San Vicente,Antioquia,05674,exacto,100.0
+1307290,Barbosa,Antioquia,05079,exacto,100.0
+1343276,San Jerónimo,Antioquia,05656,exacto,100.0
+1343267,Anzá,Antioquia,05044,exacto,100.0
+1343271,Ebéjico,Antioquia,05240,exacto,100.0
+1343264,Medellín,Antioquia,05001,exacto,100.0
+1350540,Betulia,Antioquia,05093,exacto,100.0
+1350556,Heliconia,Antioquia,05347,exacto,100.0
+1350552,Armenia,Antioquia,05059,exacto,100.0
+1307267,Concordia,Antioquia,05209,exacto,100.0
+1307281,Venecia,Antioquia,05861,exacto,100.0
+1307285,Titiribí,Antioquia,05809,exacto,100.0
+1356412,Pradera,Valle del Cauca,76563,exacto,100.0
+1473641,Candelaria,Valle del Cauca,76130,exacto,100.0
+1315080,Jordán,Santander,68370,exacto,100.0
+1315077,Aratoca,Santander,68051,exacto,100.0
+1343118,Los Santos,Santander,68418,exacto,100.0
+1315465,Villanueva,Santander,68872,exacto,100.0
+1315084,Zapatoca,Santander,68895,exacto,100.0
+1311768,Buenaventura,Valle del Cauca,76109,exacto,100.0
+1341561,Galapa,Atlántico,08296,exacto,100.0
+11372130,Mapiripán,Meta,50325,exacto,100.0
+11372442,Puerto Concordia,Meta,50450,exacto,100.0
+11313242,Yopal,Casanare,85001,exacto,100.0
+1343139,Carmen del Darién (Curbaradó),Chocó,27150,exacto,100.0
+1315086,Barrancabermeja,Santander,68081,exacto,100.0
+1423489,Simacota,Santander,68745,exacto,100.0
+1423504,San Vicente de Chucurí,Santander,68689,exacto,100.0
+1343266,Bojayá (Bellavista),Chocó,27099,exacto,100.0
+1307280,Vigía del Fuerte,Antioquia,05873,exacto,100.0
+1314689,Puebloviejo,Magdalena,47570,exacto,100.0
+11890330,El Retén,Magdalena,47268,exacto,100.0
+11890329,Aracataca,Magdalena,47053,exacto,100.0
+1351875,Zona Bananera (Prado Sevilla),Magdalena,47980,exacto,100.0
+11375481,Fuente de Oro,Meta,50287,exacto,100.0
+11374024,Granada,Meta,50313,exacto,100.0
+11371088,Barranca de Upía,Meta,50110,exacto,100.0
+11371494,Cabuyaro,Meta,50124,exacto,100.0
+11317170,Maní,Casanare,85139,exacto,100.0
+11317213,Aguazul,Casanare,85010,exacto,100.0
+1343136,Bahía Solano (Mutis),Chocó,27075,exacto,100.0
+11897251,Sabana de Torres,Santander,68655,exacto,100.0
+4061117,Nuquí,Chocó,27495,exacto,100.0
+1307287,Fredonia,Antioquia,05282,exacto,100.0
+1307234,Santa Bárbara,Antioquia,05679,exacto,100.0
+1350575,El Retiro,Antioquia,05607,subconjunto,100.0
+1307284,La Estrella,Antioquia,05380,exacto,100.0
+1307283,Caldas,Antioquia,05129,exacto,100.0
+19457088,Nuevo Belén de Bajirá,Chocó,27493,exacto,100.0
+1343140,Riosucio,Chocó,27615,exacto,100.0
+1343028,Bajo Baudó (Pizarro),Chocó,27077,exacto,100.0
+11894050,Santacruz,Nariño,52699,exacto,100.0
+11322770,Mallama,Nariño,52435,exacto,100.0
+1311754,Ricaurte,Nariño,52612,exacto,100.0
+1311762,Barbacoas,Nariño,52079,exacto,100.0
+1423507,Pueblo Bello,Cesar,20570,exacto,100.0
+1314677,Fundación,Magdalena,47288,exacto,100.0
+1307278,Carolina del Príncipe,Antioquia,05150,subconjunto,100.0
+1343280,Yarumal,Antioquia,05887,exacto,100.0
+1316177,Amalfi,Antioquia,05031,exacto,100.0
+1307259,Gómez Plata,Antioquia,05310,exacto,100.0
+1307275,Yolombó,Antioquia,05890,exacto,100.0
+407422,Samaná,Caldas,17662,exacto,100.0
+1343033,Mistrató,Risaralda,66456,exacto,100.0
+1307008,Bagadó,Chocó,27073,exacto,100.0
+1307003,Jericó,Antioquia,05368,exacto,100.0
+1307015,Jardín,Antioquia,05364,exacto,100.0
+1387968,Bogotá Distrito Capital - Municipio,"Bogotá, Distrito Capital",11001,subconjunto,100.0
+1413051,Mosquera,Cundinamarca,25473,exacto,100.0
+1307011,Andes,Antioquia,05034,exacto,100.0
+1350632,Betania,Antioquia,05091,exacto,100.0
+1307012,Hispania,Antioquia,05353,exacto,100.0
+1307289,Salgar,Antioquia,05642,exacto,100.0
+1307002,Pueblorrico,Antioquia,05576,exacto,100.0
+1350633,Ciudad Bolívar,Antioquia,05101,exacto,100.0
+1306999,El Carmen de Atrato,Chocó,27245,exacto,100.0
+1307260,Santa Rosa de Osos,Antioquia,05686,exacto,100.0
+1316181,San José de la Montaña,Antioquia,05658,exacto,100.0
+1307268,Liborina,Antioquia,05411,exacto,100.0
+1307257,Belmira,Antioquia,05086,exacto,100.0
+1307240,San Carlos,Antioquia,05649,exacto,100.0
+1350635,Caracolí,Antioquia,05142,exacto,100.0
+1350644,San Luis,Antioquia,05660,exacto,100.0
+1422326,Puerto Boyacá,Boyacá,15572,exacto,100.0
+1307241,Puerto Nare,Antioquia,05585,exacto,100.0
+1307261,Amagá,Antioquia,05030,exacto,100.0
+1307274,Angelópolis,Antioquia,05036,exacto,100.0
+1348660,San Francisco,Antioquia,05652,exacto,100.0
+1348653,Puerto Triunfo,Antioquia,05591,exacto,100.0
+407427,Norcasia,Caldas,17495,exacto,100.0
+1314676,Uribia,La Guajira,44847,exacto,100.0
+1343268,Angostura,Antioquia,05038,exacto,100.0
+1324922,Guadalupe,Antioquia,05315,exacto,100.0
+1307016,Abejorral,Antioquia,05002,exacto,100.0
+410730,Aguadas,Caldas,17013,exacto,100.0
+3947502,El Carmen de Viboral,Antioquia,05148,exacto,100.0
+410731,Salamina,Caldas,17653,exacto,100.0
+407429,Pensilvania,Caldas,17541,exacto,100.0
+1307018,Nariño,Antioquia,05483,exacto,100.0
+1307236,Argelia,Antioquia,05055,exacto,100.0
+1307009,Sonsón,Antioquia,05756,exacto,100.0
+1307263,Girardota,Antioquia,05308,exacto,100.0
+1307276,Copacabana,Antioquia,05212,exacto,100.0
+1307264,Donmatías,Antioquia,05237,exacto,100.0
+1307269,San Pedro de Los Milagros,Antioquia,05664,exacto,100.0
+1335184,Tarapacá,Amazonas,91798,subconjunto,100.0
+1335191,El Encanto,Amazonas,91263,subconjunto,100.0
+1335190,Puerto Arica,Amazonas,91536,subconjunto,100.0
+1324928,Chigorodó,Antioquia,05172,exacto,100.0
+2182325,Mutatá,Antioquia,05480,exacto,100.0
+11318880,Monterrey,Casanare,85162,exacto,100.0
+1423476,Girón,Santander,68307,exacto,100.0
+1343461,Necoclí,Antioquia,05490,exacto,100.0
+1423480,Piedecuesta,Santander,68547,exacto,100.0
+1423498,Bucaramanga,Santander,68001,exacto,100.0
+1423451,Floridablanca,Santander,68276,exacto,100.0
+1335174,Leticia,Amazonas,91001,exacto,100.0
+1343458,Canalete,Córdoba,23090,exacto,100.0
+1343470,Los Córdobas,Córdoba,23419,exacto,100.0
+1308656,Sotaquirá,Boyacá,15763,exacto,100.0
+1308642,Cómbita,Boyacá,15204,exacto,100.0
+4062807,Santa Catalina,Bolívar,13673,exacto,100.0
+1324952,Tierralta,Córdoba,23807,exacto,100.0
+1315400,San Miguel de Sema,Boyacá,15676,exacto,100.0
+1306566,Chiquinquirá,Boyacá,15176,exacto,100.0
+1343472,Puerto Libertador,Córdoba,23580,exacto,100.0
+10687625,Chía,Cundinamarca,25175,exacto,100.0
+7296967,Cota,Cundinamarca,25214,exacto,100.0
+11730767,San José de Uré,Córdoba,23682,exacto,100.0
+1324945,Buenavista,Córdoba,23079,exacto,100.0
+1324946,Montelíbano,Córdoba,23466,exacto,100.0
+1335185,Piojó,Atlántico,08549,exacto,100.0
+11382140,Mitú,Vaupés,97001,exacto,100.0
+11381490,Yavaraté,Vaupés,97889,subconjunto,100.0
+11380616,Pana Pana,Guainía,94887,subconjunto,100.0
+10688530,Lenguazaque,Cundinamarca,25407,exacto,100.0
+1315448,Jesús María,Santander,68368,exacto,100.0
+1315083,La Belleza,Santander,68377,exacto,100.0
+1315453,Sucre,Santander,68773,exacto,100.0
+11375157,San Carlos de Guaroa,Meta,50680,exacto,100.0
+11374851,Puerto López,Meta,50573,exacto,100.0
+11375289,San Martín,Meta,50689,exacto,100.0
+1343457,Cartagena de Indias,Bolívar,13001,exacto,100.0
+1473606,Sotará,Cauca,19760,subconjunto,100.0
+1706524,Popayán,Cauca,19001,exacto,100.0
+1335179,Barranquilla,Atlántico,08001,exacto,100.0
+1346474,Sutatausa,Cundinamarca,25781,exacto,100.0
+1346475,Cucunubá,Cundinamarca,25224,exacto,100.0
+11909871,Carmen de Carupa,Cundinamarca,25154,exacto,100.0
+1346472,Susa,Cundinamarca,25779,exacto,100.0
+1346398,Fúquene,Cundinamarca,25288,exacto,100.0
+10688527,Ubaté,Cundinamarca,25843,subconjunto,100.0
+1472569,Calima,Valle del Cauca,76126,exacto,100.0
+1554296,Yotoco,Valle del Cauca,76890,exacto,100.0
+1335183,Puerto Colombia,Atlántico,08573,exacto,100.0
+1324925,Caimito,Sucre,70124,exacto,100.0
+1343467,Chinú,Córdoba,23182,exacto,100.0
